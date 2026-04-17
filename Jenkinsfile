@@ -20,3 +20,4 @@ pipeline{
                     bat "git clone https://github.com/poudwalsamruddhi-alt/jenkins.git \"${cloneJSP}\""
                 }
             }
+        }
